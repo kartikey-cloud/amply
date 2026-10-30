@@ -1,0 +1,15 @@
+{
+  "name": "Amply",
+  "short_name": "Amply",
+  "description": "Turn every phone in the room into one big, perfectly synced speaker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#161513",
+  "theme_color": "#161513",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
